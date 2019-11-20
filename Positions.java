@@ -1,7 +1,4 @@
-//Viansa Schmulbach
-//Mr. Paige
-//3D Tic Tac Toe
-//Nov. 19 2019
+//Positions classes by Richard Paige, 2019.  
 
 public class Positions {
 
