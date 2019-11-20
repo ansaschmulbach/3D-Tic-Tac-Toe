@@ -1,7 +1,4 @@
-//Viansa Schmulbach
-//Mr. Paige
-//3D Tic Tac Toe
-//Nov. 19 2019
+//Board classes by Richard Paige, 2019.  
 
 public class Board {
 
@@ -218,6 +215,7 @@ public class Board {
         System.out.println();
     }
     
+    //heuristic by Viansa S.
     public int heuristic(Mark mark) {
         Board.Mark other = mark.other();
         int count = 0;
