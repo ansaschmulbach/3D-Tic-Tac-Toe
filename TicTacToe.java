@@ -1,7 +1,4 @@
-//Viansa Schmulbach
-//Mr. Paige
-//3D Tic Tac Toe
-//Nov. 19 2019
+//Main class by Viansa S.  
 
 import java.util.Scanner;
 
